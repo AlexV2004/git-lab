@@ -77,3 +77,23 @@ Untracked files:
         answers.md
 
 ANSWER 6:
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answers.md
+
+ANSWER 7:
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answers.md
+
+ANSWER 8:
