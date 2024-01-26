@@ -88,12 +88,19 @@ Changes to be committed:
 
 ANSWER 7:
 On branch master
-
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-        new file:   README.md
-        new file:   answers.md
+nothing to commit, working tree clean
 
 ANSWER 8:
+commit e713b427b31baf616c6f3982bd9fa017ab06498f (HEAD -> master)
+Author: AlexV2004 <av738122@ohio.edu>
+Date:   Fri Jan 26 14:41:52 2024 -0500
+
+    Initial commit
+
+commit f62e10a02d40510c440d808daa513e9b0c29e96b
+Author: AlexV2004 <av738122@ohio.edu>
+Date:   Fri Jan 26 14:39:58 2024 -0500
+
+    Initial commit
+
+ANSWER 9:
